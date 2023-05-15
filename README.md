@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 ## utils:
 
-**| 1 utils  | 2 clean code | 3 clang-format | 4 make (build) | 5 make test  | 6 make leak  | 7 make valgrind | 8 miniverter |**
+| 1 utils  | 2 clean code | 3 clang-format | 4 make (build) | 5 make test  | 6 make leak  | 7 make valgrind | 8 miniverter |
 | |
 | s21_cat:   |      ?       |        ?       |        ?       |      ?       |      ?       |        ?        |       ?      |
 | Makefile   |      ?       |        -       |
