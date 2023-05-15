@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ## test scripts:
 
-| **tests**           |  edition | make <...> | res |
+| tests           |  edition | make <...> | res |
 |---------------------|------------|------------|-----|
 | test_func_cat       |
 | test_leak_cat       |
@@ -102,19 +102,19 @@ Here are some ideas to get you started:
 
 ## utils:
 
-**| 1 utils  | 2 clean code | 3 clang-format | 4 make (build) | 5 make test  | 6 make leak  | 7 make valgrind | 8 miniverter |**
+| 1 utils  | 2 clean code | 3 clang-format | 4 make (build) | 5 make test  | 6 make leak  | 7 make valgrind | 8 miniverter |
 |---|----|---|----|---|----|----|----|
-| s21_cat:   |      ?       |        ?       |        ?       |      ?       |      ?       |        ?        |       ?      |
+| **s21_cat:**   |      ?       |        ?       |        ?       |      ?       |      ?       |        ?        |       ?      |
 | Makefile   |      ?       |        -       ||||||
 | main.c     |      ?       |        ?       ||||||
 | s21_cat.h  |      ?       |        ?       ||||||
 | s21_cat.c  |      ?       |        ?       ||||||
 | ||||||||
-| s21_grep:  |      V       |        V       |        V       |  V (F=0/S=2165)  |  V (F=100/S=1187)  | V (F=0/S=2474) |   V V V   |
+| **s21_grep:**  |      V       |        V       |        V       |  V (F=0/S=2165)  |  V (F=100/S=1187)  | V (F=0/S=2474) |   V V V   |
 | Makefile   |      v       |        -       ||||||
 | main.c     |      v       |        v       ||||||
 | s21_grep.h |      v       |        v       ||||||
 | s21_grep.c |      v       |        v       ||||||
 | ||||||||
-| s21_string ||||||||
+| **s21_string** ||||||||
 
