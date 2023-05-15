@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ## test scripts:
 
-**| **tests**           |  edition | make <...> | res |**
+| **tests**           |  edition | make <...> | res |
 |---------------------|------------|------------|-----|
 | test_func_cat       |
 | test_leak_cat       |
