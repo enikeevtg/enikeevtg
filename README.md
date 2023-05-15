@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ## test scripts:
 
 **| **tests**           |  edition | make <...> | res |**
-|---------------------|
+|---------------------|------------|------------|-----|
 | test_func_cat       |
 | test_leak_cat       |
 |                     |
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ## utils:
 
 **| 1 utils  | 2 clean code | 3 clang-format | 4 make (build) | 5 make test  | 6 make leak  | 7 make valgrind | 8 miniverter |**
-| ||||||||
+|---|----|---|----|---|----|----|----|
 | s21_cat:   |      ?       |        ?       |        ?       |      ?       |      ?       |        ?        |       ?      |
 | Makefile   |      ?       |        -       ||||||
 | main.c     |      ?       |        ?       ||||||
