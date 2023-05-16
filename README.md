@@ -42,37 +42,37 @@ Here are some ideas to get you started:
 * SQL projects
 
 1. __Simple Bash Utils project__
-5. s21_string+ project
-8. s21_math project
+2. s21_string+ project
+3. s21_math project
 
 ## SinmpleBashUtils:
 
-|   utils      |  clean code  |  clang-format  |  make (build)  |   make test  |   make leak  |  make valgrind  |  miniverter  |
-|--------------|--------------|----------------|----------------|--------------|--------------|-----------------|--------------|
-| **s21_cat:** |      ❓      |        ❓       |       ❓       |      ❓      |      ❓       |       ❓        |       ❓     |
-| Makefile     |      ❓      |        🙅‍♂️       |                |              |              |                 |              |
-| main.c       |      ❓      |        ❓       |                |              |              |                 |              |
-| s21_cat.h    |      ❓      |        ❓       |                |              |              |                 |              |
-| s21_cat.c    |      ❓      |        ❓       |                |              |              |                 |              |
-|              |              |                |                |              |              |                 |              |
-| **s21_grep:**  |     ✅     |       ✅       |        ✅       |  ✅ (F=0/S=2165)  |  ✅  (F=100/S=1187)  | ✅  (F=0/S=2474) |   ✅ ✅ ✅   |
-| Makefile       |     ✅     |       🙅‍♂️        |                |               |              |                 |              |
-| main.c         |     ✅     |       ✅       |                 |              |              |                 |              |
-| s21_grep.h     |     ✅     |       ✅       |                 |              |              |                 |              |
-| s21_grep.c     |     ✅     |       ✅       |                 |              |              |                 |              |
-|                |            |                |                |              |              |                 |              |
-| **s21_string** |            |                |                |              |              |                 |              |
+|   utils        |  clean code  |  clang-format  |  make (build)  |   make test  |   make leak          |  make valgrind     |  miniverter  |
+|----------------|--------------|----------------|----------------|--------------|----------------------|--------------------|--------------|
+| **s21_cat:**   |      ✅      |        ✅       |       ✅       |  ✅ (F=0/S=527) |  ✅  (F=0/S=527)   |          🙅‍♂️        |    ✅ ✅ ✅   |
+| Makefile       |      ✅      |        🙅‍♂️       |                |              |                      |                    |              |
+| main.c         |      ✅      |        ✅       |                |              |                      |                    |              |
+| s21_cat.h      |      ✅      |        ✅       |                |              |                      |                    |              |
+| s21_cat.c      |      ✅      |        ✅       |                |              |                      |                    |              |
+|                |              |                |                |              |                      |                     |              |
+| **s21_grep:**  |      ✅      |       ✅        |       ✅       |  ✅ (F=0/S=2165)  |  ✅  (F=100/S=1187) |  ✅  (F=0/S=2474) |   ✅ ✅ ✅   |
+| Makefile       |      ✅      |       🙅‍♂️        |                |              |                      |                     |              |
+| main.c         |      ✅      |       ✅        |                |              |                      |                     |              |
+| s21_grep.h     |      ✅      |       ✅        |                |              |                      |                     |              |
+| s21_grep.c     |      ✅      |       ✅        |                |              |                      |                     |              |
+|                |             |                 |                |              |                      |                     |              |
+| **s21_string** |      ✅      |       ✅        |                |              |                      |                     |              |
 
 ## test scripts:
 
-| tests               |  edition | make <target> |    res    |
-|---------------------|----------|---------------|-----------|
-| test_func_cat       |
-| test_leak_cat       |
-|                     |
-| test_func_grep.sh   |   ✅     |   ✅        | ✅ (FAIL=0/SUCCESS=2165) |
-| test_leak_grep.sh   |   ✅     |   ✅        | ✅ (FAIL=100/SUCCESS=1187 (fork: retry: Resource temporarily unavailable)) |
-| test_ERROR_VALGRIND |   ✅     |   ✅        | ✅ (FAIL=0/SUCCESS=2474) |
+| tests               |  edition | make <target> |         result          |
+|---------------------|----------|---------------|-------------------------|
+| test_func_cat       |    ✅    |      ✅        |  ✅ (F=0/S=527)         |
+| test_leak_cat       |    ✅    |      ✅        |  ✅ (F=0/S=527)         |
+|                     |          |               |                         |
+| test_func_grep.sh   |   ✅     |      ✅        | ✅ (FAIL=0/SUCCESS=2165) |
+| test_leak_grep.sh   |   ✅     |      ✅        | ✅ (FAIL=100/SUCCESS=1187 (fork: retry: Resource temporarily unavailable)) |
+| test_ERROR_VALGRIND |   ✅     |      ✅        | ✅ (FAIL=0/SUCCESS=2474) |
 
 ***
 > quote 1
