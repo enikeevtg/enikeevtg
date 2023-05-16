@@ -63,6 +63,17 @@ Here are some ideas to get you started:
 |                |            |                |                |              |              |                 |              |
 | **s21_string** |            |                |                |              |              |                 |              |
 
+## test scripts:
+
+| tests               |  edition | make <target> |    res    |
+|---------------------|----------|---------------|-----------|
+| test_func_cat       |
+| test_leak_cat       |
+|                     |
+| test_func_grep.sh   |   ✅     |   ✅        | ✅ (FAIL=0/SUCCESS=2165) |
+| test_leak_grep.sh   |   ✅     |   ✅        | ✅ (FAIL=100/SUCCESS=1187 (fork: retry: Resource temporarily unavailable)) |
+| test_ERROR_VALGRIND |   ✅     |   ✅        | ✅ (FAIL=0/SUCCESS=2474) |
+
 ***
 > quote 1
 >
@@ -92,19 +103,6 @@ Here are some ideas to get you started:
 `%>> sh test_func_grep.sh`
 
 ![test results sreenshot](test_results.png)
-***
-
-## test scripts:
-
-| tests           |  edition | make <...> | res |
-|---------------------|------------|------------|-----|
-| test_func_cat       |
-| test_leak_cat       |
-|                     |
-| test_func_grep.sh   |   V   |   V   |
-| test_leak_grep.sh   |   V   |   V   |
-| test_ERROR_VALGRIND |   V   |   V   |
-
 ***
 
 
