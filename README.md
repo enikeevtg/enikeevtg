@@ -45,17 +45,24 @@ Here are some ideas to get you started:
 5. s21_string+ project
 8. s21_math project
 
-| Project | func tests | clang-format | leaks | valgrind | miniverter |
-|---------|------------|--------------|-------|----------|------------|
-| |
-| **Simple Bash Utils:** |
-| s21_cat | 100% | v | v |  | v |
-| s21_grep | 2164/2166 | v | v |   | v |
-| |
-| **s21_string+** |
-| |
-| **s21_math+** |
-| |
+## utils:
+
+|   utils      |  clean code  |  clang-format  |  make (build)  |   make test  |   make leak  |  make valgrind  |  miniverter  |
+|--------------|--------------|----------------|----------------|--------------|--------------|-----------------|--------------|
+| **s21_cat:** |      ?       |        ?       |        ?       |      ?       |      ?       |        ?        |       ?      |
+| Makefile     |      ?       |        -       |                |              |              |                 |              |
+| main.c       |      ?       |        ?       |                |              |              |                 |              |
+| s21_cat.h    |      ?       |        ?       |                |              |              |                 |              |
+| s21_cat.c    |      ?       |        ?       |                |              |              |                 |              |
+|              |              |                |                |              |              |                 |              |
+| **s21_grep:**  |      V     |        V       |        V       |  V (F=0/S=2165)  |  V (F=100/S=1187)  | V (F=0/S=2474) |   V V V   |
+| Makefile       |      v     |        -       |                |              |              |                 |              |
+| main.c         |      v     |        v       |                |              |              |                 |              |
+| s21_grep.h     |      v     |        v       |                |              |              |                 |              |
+| s21_grep.c     |      v     |        v       |                |              |              |                 |              |
+|                |            |                |                |              |              |                 |              |
+| **s21_string** |            |                |                |              |              |                 |              |
+
 ***
 > quote 1
 >
@@ -100,21 +107,4 @@ Here are some ideas to get you started:
 
 ***
 
-## utils:
-
-| 1 utils  | 2 clean code | 3 clang-format | 4 make (build) | 5 make test  | 6 make leak  | 7 make valgrind | 8 miniverter |
-|---|----|---|----|---|----|----|----|
-| **s21_cat:**   |      ?       |        ?       |        ?       |      ?       |      ?       |        ?        |       ?      |
-| Makefile   |      ?       |        -       ||||||
-| main.c     |      ?       |        ?       ||||||
-| s21_cat.h  |      ?       |        ?       ||||||
-| s21_cat.c  |      ?       |        ?       ||||||
-| ||||||||
-| **s21_grep:**  |      V       |        V       |        V       |  V (F=0/S=2165)  |  V (F=100/S=1187)  | V (F=0/S=2474) |   V V V   |
-| Makefile   |      v       |        -       ||||||
-| main.c     |      v       |        v       ||||||
-| s21_grep.h |      v       |        v       ||||||
-| s21_grep.c |      v       |        v       ||||||
-| ||||||||
-| **s21_string** ||||||||
 
