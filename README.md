@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 5. s21_string+ project
 8. s21_math project
 
-## utils:
+## SinmpleBashUtils:
 
 |   utils      |  clean code  |  clang-format  |  make (build)  |   make test  |   make leak  |  make valgrind  |  miniverter  |
 |--------------|--------------|----------------|----------------|--------------|--------------|-----------------|--------------|
@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 | s21_cat.h    |      ?       |        ?       |                |              |              |                 |              |
 | s21_cat.c    |      ?       |        ?       |                |              |              |                 |              |
 |              |              |                |                |              |              |                 |              |
-| **s21_grep:**  |      V     |        V       |        V       |  V (F=0/S=2165)  |  V (F=100/S=1187)  | V (F=0/S=2474) |   V V V   |
-| Makefile       |      v     |        -       |                |              |              |                 |              |
-| main.c         |      v     |        v       |                |              |              |                 |              |
-| s21_grep.h     |      v     |        v       |                |              |              |                 |              |
-| s21_grep.c     |      v     |        v       |                |              |              |                 |              |
+| **s21_grep:**  |     ✅     |       ✅       |        ✅       |  ✅ (F=0/S=2165)  |  ✅  (F=100/S=1187)  | ✅  (F=0/S=2474) |   ✅ ✅ ✅   |
+| Makefile       |     ✅     |        -       |                |               |              |                 |              |
+| main.c         |     ✅     |       ✅       |                 |              |              |                 |              |
+| s21_grep.h     |     ✅     |       ✅       |                 |              |              |                 |              |
+| s21_grep.c     |     ✅     |       ✅       |                 |              |              |                 |              |
 |                |            |                |                |              |              |                 |              |
 | **s21_string** |            |                |                |              |              |                 |              |
 
