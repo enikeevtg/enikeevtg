@@ -52,9 +52,7 @@ Here are some ideas to get you started:
 ## Helpful Reps
 
 [__Habr Part 1__](https://habr.com/ru/articles/492040/),  [__Habr Part 2__](https://habr.com/ru/articles/502744/)
-
-
-
+__________________________________
 [__List of Free Learning Resources In Many Languages__](https://github.com/EbookFoundation/free-programming-books)
 
 [__Coding Interview University__](https://github.com/jwasham/coding-interview-university)
@@ -62,9 +60,7 @@ Here are some ideas to get you started:
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 [__Community driven roadmaps, articles and resources for developers__](https://github.com/kamranahmedse/developer-roadmap)
-
-
-
+__________________________________
 [__AWESOME!__](https://github.com/sindresorhus/awesom)
 
 [__Awesome First PR Opportunities__](https://github.com/MunGell/awesome-for-beginners)
@@ -80,3 +76,4 @@ Here are some ideas to get you started:
 [__The Art of Command Line__](https://github.com/jlevy/the-art-of-command-line)
 
 [__Effective Engineer - Notes__](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+__________________________________
