@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there!
+## Hey there!
 ### Tagir Enikeev here
   
-### I love coding when it works good
+### I like code
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enikeevtg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
 ***
+### Languages
+
 ![C](https://img.shields.io/badge/-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ***
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TagirEnikeev?theme=light)
@@ -41,39 +43,40 @@ Here are some ideas to get you started:
 * Algorithms projects
 * SQL projects
 
-1. __Simple Bash Utils project = 137%__
+1. __Simple Bash Utils project__
 2. s21_string+ project
 3. s21_math project
 
 ***
-> quote 1
->
-> quote 1
->
->> quote 2
->>
->> quote 2
->>>
->>> quote 3
->>>
->>> quote 3
->>
->> quote 2
->>
->> quote 2
->
-> quote 1
->
-> quote 1
 
-***
-[regex.h](https://ru.manpages.org/regfree/3 "rus manual for regex.h library")
-***
-``for (int i = 0; i < argc; i++)``
-***
-`%>> sh test_func_grep.sh`
+## Helpful Reps
 
-![test results sreenshot](test_results.png)
-***
+[__Habr Part 1__](https://habr.com/ru/articles/492040/),  [__Habr Part 2__](https://habr.com/ru/articles/502744/)
 
 
+
+[__List of Free Learning Resources In Many Languages__](https://github.com/EbookFoundation/free-programming-books)
+
+[__Coding Interview University__](https://github.com/jwasham/coding-interview-university)
+
+[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+
+[__Community driven roadmaps, articles and resources for developers__](https://github.com/kamranahmedse/developer-roadmap)
+
+
+
+[__AWESOME!__](https://github.com/sindresorhus/awesom)
+
+[__Awesome First PR Opportunities__](https://github.com/MunGell/awesome-for-beginners)
+
+[__JavaScript Algorithms and Data Structures__](https://github.com/trekhleb/javascript-algorithms)
+
+[__Table of Contents: Build your own X__](https://github.com/codecrafters-io/build-your-own-x)
+
+[__A collection of .gitignore templates__](https://github.com/github/gitignore#a-collection-of-gitignore-templates)
+
+[__Oh My Zsh__](https://github.com/ohmyzsh/ohmyzsh)
+
+[__The Art of Command Line__](https://github.com/jlevy/the-art-of-command-line)
+
+[__Effective Engineer - Notes__](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
