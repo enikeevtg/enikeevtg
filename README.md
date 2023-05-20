@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 
 [__Table of Contents: Build your own X__](https://github.com/codecrafters-io/build-your-own-x)
 
+[Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)
+
 [__A collection of .gitignore templates__](https://github.com/github/gitignore#a-collection-of-gitignore-templates)
 
 [__Oh My Zsh__](https://github.com/ohmyzsh/ohmyzsh)
@@ -77,3 +79,9 @@ Here are some ideas to get you started:
 
 [__Effective Engineer - Notes__](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 ***
+
+[__emoji-cheat-sheet__](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+## Helpful Links
+
+[__Как учиться и справляться с негативными мыслями__](https://guides.hexlet.io/ru/learning/?_gl=1*zua2h2*_ga*MTc5NDgwNjA3NS4xNjgyOTMxOTY4*_ga_PM3R85EKHN*MTY4MzIwNDMwNi40LjAuMTY4MzIwNDM2NS4xLjAuMA..)
