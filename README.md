@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Contents
 0. [Profile](#hey-there)
-1. [Current projects](#current-projects)
+1. [Current studying projects](#current-studying-projects)
 2. [Helpful Reps](#helpful-reps)
 3. [Helpful Links](#helpful-links)
 
