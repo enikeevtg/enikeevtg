@@ -31,20 +31,12 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TagirEnikeev?theme=light)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/enikeev_tg)](https://t.me/enikeev_tg)
-
+***
 ## Contents
 0. [Profile](#hey-there)
 1. [Current studying projects](#current-studying-projects)
 2. [Helpful Reps](#helpful-reps)
 3. [Helpful Links](#helpful-links)
-
-***
-        #include <stdio.h>
-        int main(int argc, char** argv) {
-          programm body;
-          return 0;
-        }
-***
 
 ## Current studying projects
 * [_team work training_](https://github.com/enikeevtg/team_proj) __<__
@@ -61,6 +53,14 @@ Here are some ideas to get you started:
 3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
 4. e_math.h project
 5. e_decimal project
+
+***
+        #include <stdio.h>
+        int main(int argc, char** argv) {
+          programm body;
+          return 0;
+        }
+***
 
 ### Cpp projects
 1. e_matrix
