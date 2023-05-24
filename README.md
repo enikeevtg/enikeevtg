@@ -48,12 +48,22 @@ Here are some ideas to get you started:
 
 ## Current studying projects
 * [_team work training_](https://github.com/enikeevtg/team_proj) __<__
-* [__C projects__](#c-projects-<) __<__
+* [__C projects__](#c-projects) __<__
 * Cpp projects
 * DevOps projects
 * Algorithms projects
 * SQL projects
 
+### C projects
+
+1. _Survival camp_ 🏁
+2. [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep) 🏁
+3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
+4. e_math.h project
+5. e_decimal project
+
+### Cpp projects
+1. e_matrix
 
 ***
 
@@ -95,18 +105,3 @@ Here are some ideas to get you started:
 ## Helpful Links
 
 [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/ru/learning/?_gl=1*zua2h2*_ga*MTc5NDgwNjA3NS4xNjgyOTMxOTY4*_ga_PM3R85EKHN*MTY4MzIwNDMwNi40LjAuMTY4MzIwNDM2NS4xLjAuMA..)
-
-
-***
-
-### C projects __<__
-
-1. _Survival camp_ 🏁
-2. [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep) 🏁
-3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
-4. e_math.h project
-5. e_decimal project
-
-### Cpp projects
-1. e_matrix
-
