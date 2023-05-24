@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 4. e_math.h project
 5. e_decimal project
 
-***
         #include <stdio.h>
         int main(int argc, char** argv) {
           programm body;
