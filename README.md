@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
         #include <stdio.h>
         int main(int argc, char** argv) {
-          programm body;
+          /*programm body*/
           return 0;
         }
 
