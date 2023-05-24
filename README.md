@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ### I like code
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enikeevtg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
+
 ***
+
 ### Languages
 
 ![C](https://img.shields.io/badge/-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
@@ -29,6 +31,13 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TagirEnikeev?theme=light)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/enikeev_tg)](https://t.me/enikeev_tg)
+
+## Contents
+0. [Profile](#hey-there)
+1. [Current projects](#current-projects)
+2. [Helpful Reps](#helpful-reps)
+3. [Helpful Links](#helpful-links)
+
 ***
         #include <stdio.h>
         int main(int argc, char** argv) {
@@ -36,52 +45,63 @@ Here are some ideas to get you started:
           return 0;
         }
 ***
-## Current projects
-* __C projects__
+
+## Current studying projects
+* [_team work training_](https://github.com/enikeevtg/team_proj) ◀️
+* [__C projects__](#c-projects-◀️) ◀️
 * Cpp projects
 * DevOps projects
 * Algorithms projects
 * SQL projects
 
-1. __Simple Bash Utils project__
-2. s21_string+ project
-3. s21_math project
+### ▶️ C projects
+
+1. _Survival camp_ 🏁
+2. [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep) 🏁
+3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) ◀️
+4. e_math.h project
+5. e_decimal project
+
+### Cpp projects
+1. e_matrix
 
 ***
 
 ## Helpful Reps
 
-[__Habr Part 1__](https://habr.com/ru/articles/492040/),  [__Habr Part 2__](https://habr.com/ru/articles/502744/)
-***
-[__List of Free Learning Resources In Many Languages__](https://github.com/EbookFoundation/free-programming-books)
+[Habr Part 1](https://habr.com/ru/articles/492040/)
 
-[__Coding Interview University__](https://github.com/jwasham/coding-interview-university)
+[Habr Part 2](https://habr.com/ru/articles/502744/)
+***
+[List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
-[__Community driven roadmaps, articles and resources for developers__](https://github.com/kamranahmedse/developer-roadmap)
+[Community driven roadmaps, articles and resources for developers](https://github.com/kamranahmedse/developer-roadmap)
 ***
-[__AWESOME!__](https://github.com/sindresorhus/awesom)
+[AWESOME!](https://github.com/sindresorhus/awesom)
 
-[__Awesome First PR Opportunities__](https://github.com/MunGell/awesome-for-beginners)
+[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
-[__JavaScript Algorithms and Data Structures__](https://github.com/trekhleb/javascript-algorithms)
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-[__Table of Contents: Build your own X__](https://github.com/codecrafters-io/build-your-own-x)
+[Table of Contents: Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
 [Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)
 
-[__A collection of .gitignore templates__](https://github.com/github/gitignore#a-collection-of-gitignore-templates)
+[A collection of .gitignore templates](https://github.com/github/gitignore#a-collection-of-gitignore-templates)
 
-[__Oh My Zsh__](https://github.com/ohmyzsh/ohmyzsh)
+[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 
-[__The Art of Command Line__](https://github.com/jlevy/the-art-of-command-line)
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
-[__Effective Engineer - Notes__](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 ***
 
-[__emoji-cheat-sheet__](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ## Helpful Links
 
-[__Как учиться и справляться с негативными мыслями__](https://guides.hexlet.io/ru/learning/?_gl=1*zua2h2*_ga*MTc5NDgwNjA3NS4xNjgyOTMxOTY4*_ga_PM3R85EKHN*MTY4MzIwNDMwNi40LjAuMTY4MzIwNDM2NS4xLjAuMA..)
+[Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/ru/learning/?_gl=1*zua2h2*_ga*MTc5NDgwNjA3NS4xNjgyOTMxOTY4*_ga_PM3R85EKHN*MTY4MzIwNDMwNi40LjAuMTY4MzIwNDM2NS4xLjAuMA..)
