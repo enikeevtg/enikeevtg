@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## Current studying projects
 * [_team work training_](https://github.com/enikeevtg/team_proj) __<__
-* [__C projects__](#c-projects) __<__
+* [__C projects__](#c-projects-<) __<__
 * Cpp projects
 * DevOps projects
 * Algorithms projects
