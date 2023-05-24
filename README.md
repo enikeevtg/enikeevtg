@@ -48,17 +48,18 @@ Here are some ideas to get you started:
 
 ### C projects
 
+        #include <stdio.h>
+        int main(int argc, char** argv) {
+          programm body;
+          return 0;
+        }
+
 1. _Survival camp_ 🏁
 2. [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep) 🏁
 3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
 4. e_math.h project
 5. e_decimal project
 
-        #include <stdio.h>
-        int main(int argc, char** argv) {
-          programm body;
-          return 0;
-        }
 ***
 
 ### Cpp projects
