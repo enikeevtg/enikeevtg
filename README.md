@@ -47,18 +47,18 @@ Here are some ideas to get you started:
 ***
 
 ## Current studying projects
-* [_team work training_](https://github.com/enikeevtg/team_proj) ◀️
-* [__C projects__](#c-projects-◀️) ◀️
+* [_team work training_](https://github.com/enikeevtg/team_proj) __<__
+* [__C projects__](#c-projects) __<__
 * Cpp projects
 * DevOps projects
 * Algorithms projects
 * SQL projects
 
-### ▶️ C projects
+### C projects __<__
 
 1. _Survival camp_ 🏁
 2. [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep) 🏁
-3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) ◀️
+3. [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
 4. e_math.h project
 5. e_decimal project
 
