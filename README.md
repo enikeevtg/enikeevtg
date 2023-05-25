@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 3. [Helpful Links](#helpful-links)
 
 ## Current studying projects
-* - [ ][_team work training_](https://github.com/enikeevtg/team_proj) __<__
+* - [ ] [_team work training_](https://github.com/enikeevtg/team_proj) __<__
 * - [ ] [__C projects__](#c-projects) __<__
 * - [ ] [Cpp projects](#cpp-projects)
 * - [ ] DevOps projects
