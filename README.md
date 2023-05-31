@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 1. - [x] _Survival camp_
 2. - [x] [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep)
 3. - [ ] [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
-4. - [ ] e_math.h project
+4. - [ ] [__e_math.h project__](https://github.com/enikeevtg/e_math.h) __<__
 5. - [ ] e_decimal project
 
 ***
