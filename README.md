@@ -69,6 +69,10 @@ Here are some ideas to get you started:
 
 ## Helpful Reps
 
+[42homebrew](https://github.com/kube/42homebrew/tree/master)
+
+***
+
 [Habr Part 1](https://habr.com/ru/articles/492040/)
 
 [Habr Part 2](https://habr.com/ru/articles/502744/)
