@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 ***
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TagirEnikeev?theme=light)
 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/enikeev_tg)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://enikeev-tg.notion.site/Coding-study-4ede8cf8625a4581a61ae22377389193?pvs=4)
+
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/enikeev_tg)](https://t.me/enikeev_tg)
 ***
 ## Contents
