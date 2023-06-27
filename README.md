@@ -1,26 +1,16 @@
-<!--### Hi there 👋-->
-
-<!--
-**enikeevtg/enikeevtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hey there!
 ### Tagir Enikeev here
-  
-### I like code
+I’m currently learning at programming School 21.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enikeevtg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
+
+
+> Хороший код у всех свой
+>
+> Но если вы не знаете, хороший ли у вас код, сделайте его:
+> 1. Читаемым
+> 2. Расширяемым
+> 3. Тестируемым
 
 ***
 
@@ -33,82 +23,3 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enikeev_tg)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://enikeev-tg.notion.site/Coding-study-4ede8cf8625a4581a61ae22377389193?pvs=4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/enikeev_tg/)
-
-***
-## Contents
-0. [Profile](#hey-there)
-1. [Current studying projects](#current-studying-projects)
-2. [Helpful Reps](#helpful-reps)
-3. [Helpful Links](#helpful-links)
-
-## Current studying projects
-* - [ ] [_team work training_](https://github.com/enikeevtg/team_proj) __<__
-* - [ ] [__C projects__](#c-projects) __<__
-* - [ ] [Cpp projects](#cpp-projects)
-* - [ ] DevOps projects
-* - [ ] Algorithms projects
-* - [ ] SQL projects
-
-### C projects
-
-        #include <stdio.h>
-        int main(int argc, char** argv) {
-          /*programm body*/
-          return 0;
-        }
-
-1. - [x] _Survival camp_
-2. - [x] [_eBashUtils project_](https://github.com/enikeevtg/eBashCatGrep)
-3. - [ ] [__e_string.h project__](https://github.com/enikeevtg/e_string.h) __<__
-4. - [x] [_e_math.h project_](https://github.com/enikeevtg/e_math.h)
-5. - [ ] e_decimal project
-
-***
-
-### Cpp projects
-1. - [ ] e_matrix
-
-***
-
-## Helpful Reps
-
-[42homebrew](https://github.com/kube/42homebrew/tree/master)
-
-***
-
-[Habr Part 1](https://habr.com/ru/articles/492040/)
-
-[Habr Part 2](https://habr.com/ru/articles/502744/)
-***
-[List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
-
-[Coding Interview University](https://github.com/jwasham/coding-interview-university)
-
-[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-
-[Community driven roadmaps, articles and resources for developers](https://github.com/kamranahmedse/developer-roadmap)
-***
-[AWESOME!](https://github.com/sindresorhus/awesom)
-
-[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
-
-[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
-
-[Table of Contents: Build your own X](https://github.com/codecrafters-io/build-your-own-x)
-
-[Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)
-
-[A collection of .gitignore templates](https://github.com/github/gitignore#a-collection-of-gitignore-templates)
-
-[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
-
-[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-
-[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-***
-
-[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-
-## Helpful Links
-
-[Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/ru/learning/?_gl=1*zua2h2*_ga*MTc5NDgwNjA3NS4xNjgyOTMxOTY4*_ga_PM3R85EKHN*MTY4MzIwNDMwNi40LjAuMTY4MzIwNDM2NS4xLjAuMA..)
